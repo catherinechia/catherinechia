@@ -24,7 +24,7 @@ My interest is using ML/AI (computer vision, NLP and knowledge graphs) to help s
 - Single-cell / bulk RNA-seq cell-typing [`finding-neurons`](https://github.com/catherinechia/finding-neurons)
 - Notch signalling pathway modeling from 3D-tracked time-series data [`modeling-notch-signaling`](https://github.com/catherinechia/modeling-notch-signaling)
 - (Publication) Navigating the landscape of multimodal AI in medicine: a scoping review on technical challenges and clinical applications, 2025 [link](https://doi.org/10.1016/j.media.2025.103621)
-- (Publication) Enhancing Early Detection of Metastatic Cutaneous Squamous Cell Carcinoma (CSCC): Integrating AI With Histopathological Assessments, 2025
+- (Publication) Enhancing Early Detection of Metastatic Cutaneous Squamous Cell Carcinoma (CSCC): Integrating AI With Histopathological Assessments, 2025 [link](https://doi.org/10.1111/exd.70135)
 - (Publication) Artificial intelligence-aided ultrasound imaging in hepatopancreatobiliary surgery: where are we now? 2024 [link](https://doi.org/10.1007/s00464-024-11130-0)
 - (Patent) Head Protection Device and Method of Manufacturing the Same [link](https://patents.google.com/patent/US20230293354A1/en)
 
